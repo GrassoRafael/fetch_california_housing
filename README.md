@@ -22,10 +22,11 @@ Este projeto requer Python 3 e as seguintes bibliotecas Python:
 NumPy
 Pandas
 Scikit-learn
+XGBoost
 Você pode instalar essas bibliotecas via pip.
 
 ````bash
-pip install numpy pandas scikit-learn
+pip install numpy pandas scikit-learn xgboost
 ````
 Uso
 Você pode executar o script main.py para treinar e avaliar o modelo de previsão de preços de casas na Califórnia.
